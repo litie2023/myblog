@@ -5,10 +5,9 @@ export default defineConfig({
   description: 'A VitePress Site',
   themeConfig: {
     lastUpdated: {
-      text: 'Updated at',
+      text: '更新于',
       formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium',
+        dateStyle: 'short',
       },
     },
     nav: [{ text: 'Home', link: '/' }],
