@@ -21,6 +21,15 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: 'Web3基础',
+        items: [
+          {
+            text: 'Foundry开发环境搭建与基本使用',
+            link: '/docs/web3/2024-8-7',
+          },
+        ],
+      },
     ],
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/litie2023' }],

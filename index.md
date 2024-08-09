@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -13,13 +12,13 @@ hero:
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+features:
+  - title: 前端工程化
+    details: 工程化的理解与实践
+  - title: 前端框架
+    details: React、Vue等框架的理解与实践
+  - title: 初入Web3
+    details: 基于Foundry的智能合约与Dapp开发
+  - title: Python脚本工具
+    details: 基于Python3的自动化脚本开发
 ---
-
-这里是 Tiezi 的博客，欢迎访问！
