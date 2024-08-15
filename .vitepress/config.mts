@@ -28,6 +28,14 @@ export default defineConfig({
             text: 'Foundry开发环境搭建与基本使用',
             link: '/docs/web3/2024-8-7',
           },
+          {
+            text: '以太币单位',
+            link: '/docs/web3/2024-8-12',
+          },
+          {
+            text: 'Solidity开发之函数',
+            link: '/docs/web3/2024-8-15',
+          },
         ],
       },
     ],
