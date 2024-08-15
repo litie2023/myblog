@@ -29,7 +29,7 @@ export default defineConfig({
             link: '/docs/web3/2024-8-7',
           },
           {
-            text: '以太币单位',
+            text: '以太币单位Wei及换算关系',
             link: '/docs/web3/2024-8-12',
           },
           {
