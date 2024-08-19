@@ -13,13 +13,17 @@ export default defineConfig({
     nav: [{ text: 'Home', link: '/' }],
     sidebar: [
       {
-        text: '前端框架认知',
+        text: 'Vue',
         items: [
           {
             text: '在Vue中组件间通讯的几种方式',
             link: '/docs/frontend/2024-8-2',
           },
         ],
+      },
+      {
+        text: 'React',
+        items: [],
       },
       {
         text: 'Web3基础',
@@ -36,7 +40,15 @@ export default defineConfig({
             text: 'Solidity开发之函数',
             link: '/docs/web3/2024-8-15',
           },
+          {
+            text: '用vscode本地开发Solidity并连到Remix',
+            link: '/docs/web3/2024-8-19',
+          },
         ],
+      },
+      {
+        text: 'NodeJS基础',
+        items: [],
       },
     ],
 

@@ -19,6 +19,6 @@ features:
     details: React、Vue等框架的理解与实践
   - title: 初入Web3
     details: 基于Foundry的智能合约与Dapp开发
-  - title: Python脚本工具
-    details: 基于Python3的自动化脚本开发
+  - title: Node脚本
+    details: NodeJs基本入门
 ---
