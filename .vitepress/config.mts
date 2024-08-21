@@ -44,6 +44,10 @@ export default defineConfig({
             text: '用vscode本地开发Solidity并连到Remix',
             link: '/docs/web3/2024-8-19',
           },
+          {
+            text: '基于Foundry工具链搭建一套前后端的开发与测试环境',
+            link: '/docs/web3/2024-8-21',
+          },
         ],
       },
       {
