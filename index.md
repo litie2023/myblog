@@ -2,13 +2,13 @@
 layout: home
 
 hero:
-  name: "Tiezi's Blog"
+  name: "Lenis's Blog"
   text: ''
   tagline:
   actions:
     - theme: brand
       text: 这里开始
-      link: /docs/frontend/2024-8-2
+      link: /docs/web3/2024-8-21
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples

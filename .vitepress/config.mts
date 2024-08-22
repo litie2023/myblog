@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Tiezi's Blog",
-  description: 'A VitePress Site',
+  title: "Lenis's Blog",
+  description: 'A personal blog',
   themeConfig: {
     lastUpdated: {
       text: '更新于',
