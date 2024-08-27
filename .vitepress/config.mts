@@ -48,6 +48,10 @@ export default defineConfig({
             text: '基于Foundry工具链搭建一套前后端的开发与测试环境',
             link: '/docs/web3/2024-8-21',
           },
+          {
+            text: '连接小狐狸钱包MetaMask',
+            link: '/docs/web3/2024-8-27',
+          },
         ],
       },
       {
