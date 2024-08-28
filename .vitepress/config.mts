@@ -23,7 +23,12 @@ export default defineConfig({
       },
       {
         text: 'React',
-        items: [],
+        items: [
+          {
+            text: 'React开发需要的最小技能合集',
+            link: '',
+          },
+        ],
       },
       {
         text: 'Web3基础',
@@ -51,6 +56,10 @@ export default defineConfig({
           {
             text: '连接小狐狸钱包MetaMask',
             link: '/docs/web3/2024-8-27',
+          },
+          {
+            text: '用ethers前端库调用MetaMask连接本地开发环境',
+            link: '/docs/web3/2024-8-2701',
           },
         ],
       },
