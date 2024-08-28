@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Lenis's Blog",
   description: 'A personal blog',
+  head: [['link', { rel: 'icon', href: '/public/imgs/favicon.ico' }]],
   themeConfig: {
     lastUpdated: {
       text: '更新于',
