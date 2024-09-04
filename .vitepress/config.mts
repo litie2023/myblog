@@ -27,7 +27,7 @@ export default defineConfig({
         items: [
           {
             text: 'React开发需要的最小技能合集',
-            link: '',
+            link: '/docs/frontend/2024-9-2',
           },
         ],
       },
