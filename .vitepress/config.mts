@@ -17,6 +17,10 @@ export default defineConfig({
         text: 'Vue',
         items: [
           {
+            text: 'Vue3中的TS类型声明总结',
+            link: '/docs/frontend/2024-10-9',
+          },
+          {
             text: '在Vue中组件间通讯的几种方式',
             link: '/docs/frontend/2024-8-2',
           },
